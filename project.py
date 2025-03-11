@@ -6,7 +6,6 @@ Created on Mon Dec 20 14:17:37 2021
 """
 #%% packages
 import pandas as pd
-import seaborn as sns
 import os
 import json
 import tkinter as tk
