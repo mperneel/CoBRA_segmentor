@@ -42,7 +42,7 @@ class Application(tk.Frame):
                              expand=True)
 
         #set title
-        self.master.title("CoBRA annotation tool")
+        self.master.title("CoBRA segmentor")
 
         #make sure the application fills the whole window
         self.master.state('zoomed')
