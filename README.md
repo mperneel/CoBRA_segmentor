@@ -5,5 +5,5 @@ CoBRA_segmentor generates for each image a .json file containing 1) the coordina
 
 CoBRA_segmentor can be run from the CoBRA_segmentor.py file, but can also be compiled to an executable file using pyinstaller in combination with the compilation parameters specified in  CoBRA_segmentor.spec
 
-![image](images/red_holstein.png)
+![image](images/CoBRA_segmentor_application.png)
 

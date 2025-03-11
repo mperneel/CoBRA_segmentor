@@ -294,7 +294,7 @@ class ImageObject():
         """
 
         #Update title of application
-        self.master.master.title("CoBRA annotation tool " + self.image_name)
+        self.master.master.title("CoBRA segmentor " + self.image_name)
 
         #reset parameters
         self.reset()
